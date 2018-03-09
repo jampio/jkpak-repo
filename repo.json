@@ -1,4 +1,8 @@
-{ "rj_sublime3": {"url": "https://mrwonko.de/jk3files/files/22040_rj_sublime3-academy.zip"}
+{ "atlantica": {"url": "https://files.jkhub.org/jka/maps/ffa/atlantica_v1.02.zip"}
+, "atlantica_rpg": {"url": "https://files.jkhub.org/jka/maps/ffa/atlantica_v1.02.zip"}
+, "rj_sublime3": {"url": "https://mrwonko.de/jk3files/files/22040_rj_sublime3-academy.zip"}
 , "countryacademy": {"url":"https://files.jkhub.org/jka/maps/ffa/countryacademy.zip"}
 , "ffa_country2": {"url":"https://files.jkhub.org/jko/maps/ffa/ffa_country2.zip"}
+, "jedicouncilgcx": {"url": "https://files.jkhub.org/jka/maps/ffa/JediCouncilGCX.zip"}
+, "sithcouncilv2": {"url":"https://files.jkhub.org/jka/maps/ffa/sithcouncilv2.zip"}
 }
