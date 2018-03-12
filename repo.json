@@ -1,10 +1,17 @@
 { "atlantica": {"url": "https://files.jkhub.org/jka/maps/ffa/atlantica_v1.02.zip"}
 , "atlantica_rpg": {"url": "https://files.jkhub.org/jka/maps/ffa/atlantica_v1.02.zip"}
-, "rj_sublime3": {"url": "https://mrwonko.de/jk3files/files/22040_rj_sublime3-academy.zip"}
 , "countryacademy": {"url":"https://files.jkhub.org/jka/maps/ffa/countryacademy.zip"}
 , "ffa_country2": {"url":"https://files.jkhub.org/jko/maps/ffa/ffa_country2.zip"}
 , "jedicouncilgcx": {"url": "https://files.jkhub.org/jka/maps/ffa/JediCouncilGCX.zip"}
 , "jedi's_home(jl)": {"url": "https://files.jkhub.org/jka/maps/ffa/jedishomejl1.1.zip"}
 , "jedi'shomejl_ii": {"url": "https://files.jkhub.org/jka/maps/ffa/jedihomejl_ii.zip"}
+, "racearena": {"url": "https://www.dropbox.com/s/fu6pbb8jvfvu2hm/mapRaceArena.pk3?dl=1"}
+, "racearena_pro": {"url": "https://www.dropbox.com/s/fu6pbb8jvfvu2hm/mapRaceArena.pk3?dl=1"}
+, "racepack1": {"url": "https://www.dropbox.com/s/84if2dkpuhr6572/mapRacepack1.pk3?dl=1"}
+, "racepack2": {"url": "https://www.dropbox.com/s/4crbnrgqr248f81/mapRacepack2.pk3?dl=1"}
+, "racepack3": {"url": "https://www.dropbox.com/s/kggwqzdxnzoekqz/mapRacepack3.pk3?dl=1"}
+, "racepack4": {"url": "https://www.dropbox.com/s/at3n9gz4tvo6jia/mapRacePack4.pk3?dl=1"}
+, "racepack6": {"url": "https://www.dropbox.com/s/ii6hc1dt1jobnoi/mapRacepack6.pk3?dl=1"}
+, "rj_sublime3": {"url": "https://mrwonko.de/jk3files/files/22040_rj_sublime3-academy.zip"}
 , "sithcouncilv2": {"url":"https://files.jkhub.org/jka/maps/ffa/sithcouncilv2.zip"}
 }
